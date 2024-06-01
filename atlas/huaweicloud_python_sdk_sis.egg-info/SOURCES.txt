@@ -1,0 +1,7 @@
+setup.py
+huaweicloud_python_sdk_sis.egg-info/PKG-INFO
+huaweicloud_python_sdk_sis.egg-info/SOURCES.txt
+huaweicloud_python_sdk_sis.egg-info/dependency_links.txt
+huaweicloud_python_sdk_sis.egg-info/not-zip-safe
+huaweicloud_python_sdk_sis.egg-info/requires.txt
+huaweicloud_python_sdk_sis.egg-info/top_level.txt
